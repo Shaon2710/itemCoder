@@ -1,0 +1,24 @@
+{
+  "name": "itemcoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaon2710/itemCoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaon2710/itemCoder/issues"
+  },
+  "homepage": "https://github.com/Shaon2710/itemCoder#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1"
+  }
+}

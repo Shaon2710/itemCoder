@@ -1,0 +1,30 @@
+/* ========================== header css start  ==============================*/
+
+header #main-header #logo {
+    padding: 21px 0;
+}
+
+header #main-header .col-md-8,
+{
+    padding: 20px;
+}
+
+header #main-header .col-md-8 ul li a {
+    color: black;
+}
+
+#main-menu ul li a {
+    padding: 28px 14px 29px;
+}
+
+header #main-header .col-md-2 ul li a {
+    padding: 20px;
+    color: red;
+}
+
+header #main-header .col-md-2 ul li a i {
+    padding: 28px 10px 29px;
+}
+
+
+/* ========================== header css end  ==============================*/
